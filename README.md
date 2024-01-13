@@ -18,3 +18,23 @@ Should include VFE Empire compatibility.
 
 ## Redo r/place to Stable Diffusion but with GPT-4V and DALL-E 3 instead
 
+## Blockly to PyTorch
+Revive the Blockly to PyTorch project
+Alternatively, create a programmimng language meant to transpile to PyTorch
+
+## Portfolio Website
+Probably not the first thing to make, but a portfolio website could be cool to have
+
+## DALL-E assistant
+A website powered with ChatGPT-4V and DALL-E 3 to create presets and fine-tune in loop the images being generated to attempt to help in creating something great
+Bonus points for doing this with open-source uncensored models instead, but I most certainly lack the computing power for this
+Could be done with Electron since I mean for this to be a local app, this could be an occasion to learn Electron
+
+## Pandemic Simulator
+I mean the board game, making a simulator that could be ran multiple times to anylise best strategies
+
+## Pathfinding algorithm visualizer
+Probably with LOVE2D, I always struggled with the idea of making a visualizer for an algorhythm, and this is a good occasion to learn
+
+## Slay The Spire mod using ChatGPT
+And I don't mean using ChatGPT to make the mod, but using ChatGPT to generate cards on the fly, and perhaps even bosses and relics.
