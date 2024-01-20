@@ -38,3 +38,6 @@ Probably with LOVE2D, I always struggled with the idea of making a visualizer fo
 
 ## Slay The Spire mod using ChatGPT
 And I don't mean using ChatGPT to make the mod, but using ChatGPT to generate cards on the fly, and perhaps even bosses and relics.
+
+## Build a language that transpile to Brainfuck
+Not sure how to go about it yet, but it's certain that control flow and functions are going to be a requirement there.
