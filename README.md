@@ -41,3 +41,6 @@ And I don't mean using ChatGPT to make the mod, but using ChatGPT to generate ca
 
 ## Build a language that transpile to Brainfuck
 Not sure how to go about it yet, but it's certain that control flow and functions are going to be a requirement there.
+
+## Goodwin-o-meter
+Train a neural network to take a Twitter thread as input, and output predection on whether he-who-shall-not-be-named or his believers will be mentioned in the future and when.
