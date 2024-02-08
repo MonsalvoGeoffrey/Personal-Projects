@@ -41,3 +41,6 @@ And I don't mean using ChatGPT to make the mod, but using ChatGPT to generate ca
 
 ## Build a language that transpile to Brainfuck
 Not sure how to go about it yet, but it's certain that control flow and functions are going to be a requirement there.
+
+## Line Counting CLI tool
+I occasionaly just wish to count how long in lines a file or group of file is, finally a project that I can do and actually use !
