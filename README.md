@@ -44,3 +44,6 @@ Not sure how to go about it yet, but it's certain that control flow and function
 
 ## Line Counting CLI tool
 I occasionaly just wish to count how long in lines a file or group of file is, finally a project that I can do and actually use !
+
+## Chat app in LUA
+I just wanna learn to finally do stuff with LUA's package manager, and I know I'll need it for that.
