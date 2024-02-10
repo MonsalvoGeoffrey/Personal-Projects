@@ -47,3 +47,8 @@ I occasionaly just wish to count how long in lines a file or group of file is, f
 
 ## Chat app in LUA
 I just wanna learn to finally do stuff with LUA's package manager, and I know I'll need it for that.
+
+## Download Folder Cleaner
+I used to have that in Python a while back, might do it again.
+But there maybe a better way to do it, one that can actually be shared rather than telling people to put a batch file in their startup folder.
+Especially since I'm targetting windows, which isn't quite convenient to have python apps launch on startup.
