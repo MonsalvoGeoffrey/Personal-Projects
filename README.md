@@ -52,3 +52,6 @@ I just wanna learn to finally do stuff with LUA's package manager, and I know I'
 I used to have that in Python a while back, might do it again.
 But there maybe a better way to do it, one that can actually be shared rather than telling people to put a batch file in their startup folder.
 Especially since I'm targetting windows, which isn't quite convenient to have python apps launch on startup.
+
+## LuaRocks Alternative
+OH MY CELESTIA Lua really needs a package manager that work out of the box. And LuaRocks unfortunately ain't it.
