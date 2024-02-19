@@ -55,3 +55,6 @@ Especially since I'm targetting windows, which isn't quite convenient to have py
 
 ## LuaRocks Alternative
 OH MY CELESTIA Lua really needs a package manager that work out of the box. And LuaRocks unfortunately ain't it.
+
+## Mystery Dungeon style game
+Hmmm, it'd be a bit difficult, but I feel like this could be a full-size game project I could actually be able and willing to do.
