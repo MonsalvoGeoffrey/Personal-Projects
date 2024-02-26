@@ -58,3 +58,6 @@ OH MY CELESTIA Lua really needs a package manager that work out of the box. And 
 
 ## Mystery Dungeon style game
 Hmmm, it'd be a bit difficult, but I feel like this could be a full-size game project I could actually be able and willing to do.
+
+## Project generator/finder
+If I can't come up with projects on my own, I'll generate or scarp them !
